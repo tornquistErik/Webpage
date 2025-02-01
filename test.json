@@ -2,6 +2,7 @@
   "questions": [
     {
       "question": "It is an excited β2-adrenergic receptor. What drug should you give it to calm it?",
+      "image": "",
       "options": [
         {
           "string": "Timolol",
@@ -30,6 +31,7 @@
     },
     {
       "question": "It is a sleeping β2-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
       "options": [
         {
           "string": "Timolol",
