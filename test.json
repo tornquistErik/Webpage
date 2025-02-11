@@ -50,8 +50,240 @@
           "image": ""
         },
         {
+          "string": "Tetrahydrozoline",
+          "image": ""
+        }
+      ],
+      "answerIndex": 0,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is a sleeping α2-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
+      "options": [
+        {
+          "string": "Timolol",
+          "image": ""
+        },
+        {
+          "string": "Albuterol",
+          "image": ""
+        },
+        {
+          "string": "Brimonidine",
+          "image": ""
+        },
+        {
+          "string": "Metoprolol",
+          "image": ""
+        },
+        {
+          "string": "Mirabegron",
+          "image": ""
+        }
+      ],
+      "answerIndex": 2,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is a sleeping β3-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
+      "options": [
+        {
+          "string": "Timolol",
+          "image": ""
+        },
+        {
+          "string": "Albuterol",
+          "image": ""
+        },
+        {
+          "string": "Brimonidine",
+          "image": ""
+        },
+        {
+          "string": "Metoprolol",
+          "image": ""
+        },
+        {
+          "string": "Mirabegron",
+          "image": ""
+        }
+      ],
+      "answerIndex": 4,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is an excited β2-adrenergic receptor. What drug should you give it to calm it?",
+      "image": "",
+      "options": [
+        {
           "string": "",
-          "image": "IMG_20210208_111233479.jpg"
+          "image": "pharmgoimg1.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg2.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg3.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg4.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg5.png"
+        }
+      ],
+      "answerIndex": 0,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is a sleeping β2-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
+      "options": [
+        {
+          "string": "",
+          "image": "pharmgoimg1.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg2.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg3.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg4.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg5.png"
+        }
+      ],
+      "answerIndex": 1,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is a sleeping α2-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
+      "options": [
+        {
+          "string": "",
+          "image": "pharmgoimg1.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg2.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg3.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg4.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg6.png"
+        }
+      ],
+      "answerIndex": 2,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is an excited α1-adrenergic receptor. What drug should you give it to calm it?",
+      "image": "",
+      "options": [
+        {
+          "string": "",
+          "image": "pharmgoimg1.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg2.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg3.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg4.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg6.png"
+        }
+      ],
+      "answerIndex": 4,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "It is a sleeping β2-adrenergic receptor. What drug should you give it to activate it?",
+      "image": "",
+      "options": [
+        {
+          "string": "",
+          "image": "pharmgoimg7.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg2.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg3.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg4.png"
+        },
+        {
+          "string": "",
+          "image": "pharmgoimg6.png"
+        }
+      ],
+      "answerIndex": 0,
+      "difficulty": 0,
+      "locations": 0
+    },
+    {
+      "question": "You spot a wild molecule. Which receptor should you use to capture it?",
+      "image": "pharmgoimg7.png",
+      "options": [
+        {
+          "string": "β3 adrenergic receptor",
+          "image": ""
+        },
+        {
+          "string": "β2 adrenergic receptor",
+          "image": ""
+        },
+        {
+          "string": "β1 adrenergic receptor",
+          "image": ""
+        },
+        {
+          "string": "α2 adrenergic receptor",
+          "image": ""
+        },
+        {
+          "string": "α1 adrenergic receptor",
+          "image": ""
         }
       ],
       "answerIndex": 0,
